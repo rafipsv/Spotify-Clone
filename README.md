@@ -1,16 +1,30 @@
-# spotify
 
-A new Flutter project.
+# Spotify Clone Using Flutter
 
-## Getting Started
+Here is my brand new flutter Project, which is Spotify Clone.
+Hope you guys will like this.
+Thanks for reading this❤️ 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Roadmap
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+
+
+## Screenshots
+### HomePage
+
+![App Screenshot](https://github.com/rafipsv/Spotify-Clone/blob/master/assets/ScreenShot/Home%20Page.png?raw=true)
+
+### Details Page
+
+![App Screenshot](https://github.com/rafipsv/Spotify-Clone/blob/master/assets/ScreenShot/Details%20Page.PNG?raw=true)
+
+### Song Page
+
+![App Screenshot](https://github.com/rafipsv/Spotify-Clone/blob/master/assets/ScreenShot/Song%20Page.PNG?raw=true)
+
+
+
